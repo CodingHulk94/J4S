@@ -1,0 +1,10 @@
+# Files and folders to be ignored by git
+vendor
+.DS_store
+nbproject
+docs
+docker
+docker-compose.yml
+Dockerfile
+config.php
+# gulpfile.js
